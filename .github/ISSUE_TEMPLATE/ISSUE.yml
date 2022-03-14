@@ -1,4 +1,4 @@
-name: Report an issue with the Interaction Principles
+name: 🐞 Report an issue
 description: File a bug report to help us fix your issue
 title: "[Bug]: "
 labels: ["bug", "triage"]
