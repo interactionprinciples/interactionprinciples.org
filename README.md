@@ -26,7 +26,7 @@ The principles have served us as a guide to everyday life. But they also concern
 
 11. If you feel the pull at the fringes of consciousness for the flow state, you can "step in" to what is there. By stepping in, you cease being yourself and become what the situation is calling for. Give yourself permission, and give others around you permission to step into this larger narrative.
 
-12. This is a powerful space but not a morally coded one. Serendipity does not have a moral bent. It is neither good nor bad. Act accordingly, and do not ?
+12. This is a powerful space but not a morally coded one. Serendipity does not have a moral bent. It is neither good nor bad.
 
 13. If you trust your experience of becoming more free, and you pass on this wisdom, through your actions other people may become more free.
 
