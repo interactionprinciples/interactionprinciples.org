@@ -1,0 +1,36 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug", "triage"]
+assignees:
+  - interactionprinciples/testing
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report for the interaction principles!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened! The principles led me astray!"
+    validations:
+      required: true
+  - type: textarea
+    id: concerns
+    attributes:
+      label: Which principles?
+      description: Tell us which principle(s) you are having trouble with.
+      placeholder: "Principle 1. led me astray when..."
+    validations:
+      required: true
