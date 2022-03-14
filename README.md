@@ -10,7 +10,7 @@ The principles have served us as a guide to everyday life. But they also concern
 
 3. Do not contradict others' experience. While it is possible to be wrong, it is impossible for experience to be in error. The only way to earn another's trust is to acknowledge the reality of their experience. Do what is required to let others know you are part of the story they themselves are a part of.
 
-4. Status is everywhere and is constant. When you enter into an interaction, you are playing with power.
+4. Power is everywhere and is constant. When you enter into an interaction, you are playing with power.
 
 5. You have a moral duty to reality test your assumptions, because when you enter into an interaction, you are dealing with the boundaries of consent.
 
