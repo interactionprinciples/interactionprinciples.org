@@ -30,4 +30,4 @@ The principles have served us as a guide to everyday life. But they also concern
 
 13. If you trust your experience of becoming more free, and you pass on this wisdom, through your actions other people may become more free.
 
-14. Find the limits of these principles. Be concerned with truth, and establish your own wisdom. If you find a correction, send our team a note: [team@interactionprinciples.org][mailto:team@interactionprinciples.org] or check out how else you can [contribute](https://github.com/interactionprinciples/interactionprinciples.org/blob/main/CONTRIBUTING.md).
+14. Find the limits of these principles. Be concerned with truth, and establish your own wisdom. If you find a correction, send our team a note: [team@interactionprinciples.org](mailto:team@interactionprinciples.org) or check out how else you can [contribute](https://github.com/interactionprinciples/interactionprinciples.org/blob/main/CONTRIBUTING.md).
