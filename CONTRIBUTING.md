@@ -1,6 +1,6 @@
 When contributing to the principles, please first discuss the change you wish to make by creating an issue, sending an email to team@interactionprinciples.org, or any other method with the owners of this repository before making a change.
 
-To contribute, you need a GitHub.com account. You can create one at https://github.com/join and signing in.
+To contribute, you need a GitHub account (this can be anonymous if you prefer to send feedback this way!). You can create one at https://github.com/join. Then sign in to contribute by creating an issue, suggesting an enhancement, or submitting any edits or other feedback.
 
 ### Create a new issue
 
