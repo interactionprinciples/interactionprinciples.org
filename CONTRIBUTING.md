@@ -30,7 +30,7 @@ We aim to use simple language that is free of jargon.
 
 ### Recognition model
 
-We use a [humans.txt](https://humanstxt.org/) file to acknowledge the humans behind the principles.  
+We use a [humans.txt](https://humanstxt.org/) file to acknowledge the humans behind the principles: https://interactionprinciples.org/humans.txt
 
 
 ### Our Pledge
