@@ -1,4 +1,4 @@
-These principles are derived from direct experience. We've found that by living this way, life is richer, more meaningful, people like us more, and we end up helping others more.
+These principles are derived from direct experience. We've found that by living in accord with this ethic, life is richer, more meaningful, people like us more, and we end up helping others more.
 
 The principles have served us as a guide to everyday life. But they also concern those special moments in which everything feels meaningful and of great importance. When we enter into an interaction with others, the regular rules of life can dissolve, and the boundaries of truth and reality can become blurry. These of heightened awareness and meaning require great care.
 
