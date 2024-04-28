@@ -16,7 +16,7 @@ The principles have served us as a guide to everyday life. But they also concern
 
 6. Do not enter into a vulnerable interaction with someone unless you respect them. If you are not ready to meet somebody as an equal, in the power differences between you you will cause them harm.
 
-7. Because we know how weak and pathetic we are, and how often the people who love us have no other choice but to assume our needs and intents without our explicit verbal expression, it is also our duty to take this stance of caring for others.
+7. Because we are interdependent beings, and how often the people who love us must assume our needs and intents without our explicit verbal expression, it is also our duty to take this stance of caring for others.
 
 8. You must assume you are worthy. You are entitled to other people's time and attention, because that is also what you give to them. Because you go further for others you are enabled to ask without shame.
 
