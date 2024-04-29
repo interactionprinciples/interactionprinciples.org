@@ -14,7 +14,7 @@ The principles have served us as a guide to everyday life. But they also concern
 
 5. You have a moral duty to reality test your assumptions, because when you enter into an interaction, you are dealing with the boundaries of consent.
 
-6. Do not enter into a vulnerable interaction with someone unless you respect them. If you are not ready to meet somebody as an equal, in the power differences between you you will cause them harm.
+6. Do not enter into a vulnerable interaction with someone unless you respect them and they respect you. If you are not ready to meet each other as equals, the power differences between you will cause both of you harm.
 
 7. Because we are interdependent beings, and how often the people who love us must assume our needs and intents without our explicit verbal expression, it is also our duty to take this stance of caring for others.
 
